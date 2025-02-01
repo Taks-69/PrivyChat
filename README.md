@@ -105,6 +105,6 @@ This project is licensed under the GNU General Public License v3.0.
 
 ---
 
-🔥 **Feel free to star ⭐ the repository if you found this project useful!** 🚀
+🔥 **Feel free to star ⭐ the repository if you found this project useful!!** 🚀
 
 

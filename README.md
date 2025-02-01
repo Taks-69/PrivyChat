@@ -1,4 +1,3 @@
-````
 # PrivyChat
 
 PrivyChat is a secure **TCP** chat program using **RSA** for key exchange and **AES** for message encryption. It allows multiple clients to communicate confidentially via a central server.
@@ -20,7 +19,7 @@ PrivyChat is a secure **TCP** chat program using **RSA** for key exchange and **
 - Install dependencies:  
    ```bash
    pip install pycryptodome
-````
+   ```
 
 ### **Clone the project**
 
@@ -108,5 +107,4 @@ This project is licensed under the GNU General Public License v3.0.
 
 🔥 **Feel free to star ⭐ the repository if you found this project useful!** 🚀
 
-````
 

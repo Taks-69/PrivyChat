@@ -1,7 +1,8 @@
 # PrivyChat
 
 PrivyChat is a secure **TCP** chat program using **RSA** for key exchange and **AES** for message encryption. It allows multiple clients to communicate confidentially via a central server.
-
+---
+> A second version is coming
 ---
 
 ## 🔹 Features
